@@ -2,7 +2,7 @@
   "name": "dspace-angular",
   "version": "7.6.1-next",
   "engines": {
-    "node": ">=16.18.0"
+    "node": "16.18.0"
   },
   "scripts": {
     "ng": "ng",
